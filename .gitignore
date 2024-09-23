@@ -151,3 +151,9 @@ dmypy.json
 cython_debug/
 
 .aider*
+creds.py
+**/creds.py
+._*
+**/._*
+*.png
+**/*.png

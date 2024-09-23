@@ -7,3 +7,6 @@ langchain
 llama-index
 ell-ai
 setuptools>=64
+instructor
+google-generativeai
+jsonref
