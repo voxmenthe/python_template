@@ -157,3 +157,4 @@ creds.py
 **/._*
 *.png
 **/*.png
+.qodo
